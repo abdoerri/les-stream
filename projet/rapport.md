@@ -1,7 +1,9 @@
 
 
 <img src="ana.png" style="height:464px;margin-right:432px"/>
+Abderrahman Erritouni
 
+sujet:Plateforme Intelligente de Gestion des Tickets du Mondial 2030 
 
 La plateforme intelligente gère les billets du Mondial 2030 avec efficacité et sécurité.
 Elle utilise l’intelligence artificielle pour anticiper les flux et éviter la fraude.
