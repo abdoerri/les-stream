@@ -1,7 +1,7 @@
 
-nom&prenom : ABDERRAHMAN ERRITOUNI
-<img src="ana.png" style="height:464px;margin-right:432px"/>
 
+<img src="ana.png" style="height:464px;margin-right:432px"/>
+Nom&prenom : ABDERRAHMAN ERRITOUNI
 SUJET : Plateforme Intelligente de Gestion des Tickets du Mondial 2030 
 
 La plateforme intelligente gère les billets du Mondial 2030 avec efficacité et sécurité.
